@@ -1,4 +1,4 @@
-# CSC112 Projects – Hanna Syed
+# Data Structures - CSC112
 
 This repository includes two Python projects from CSC112.
 
